@@ -1,4 +1,4 @@
-# Bioactivity Prediction with Machine Learning
+# Bioactivity Prediction with Random Forest Classifier
 
 This project focuses on developing machine learning models to predict the bioactivity of molecules sourced from PubChem, classified as either "active" or "inactive" against a specified target. 
 
